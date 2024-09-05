@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0067-add-binary) |
+| [0897-prime-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0897-prime-palindrome) |
 ## String
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [0897-prime-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0897-prime-palindrome) |
 <!---LeetCode Topics End-->
