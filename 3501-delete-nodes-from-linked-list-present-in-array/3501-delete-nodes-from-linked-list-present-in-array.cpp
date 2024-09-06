@@ -11,6 +11,8 @@
 class Solution {
 public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         ListNode* first = new ListNode(-1);
         ListNode* second = NULL;
         second = first;
