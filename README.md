@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0227-basic-calculator-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1351-replace-the-substring-for-balanced-string) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0227-basic-calculator-ii) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2573-remove-nodes-from-linked-list) |
 ## Array
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0354-russian-doll-envelopes) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sorting
 |  |
 | ------- |
