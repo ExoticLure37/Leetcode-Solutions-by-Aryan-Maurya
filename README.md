@@ -76,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0772-construct-quad-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0772-construct-quad-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0099-recover-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Search
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Two Pointers
 |  |
