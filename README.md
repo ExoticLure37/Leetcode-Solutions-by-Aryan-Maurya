@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0067-add-binary) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3192-maximum-xor-product](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3192-maximum-xor-product) |
 ## Simulation
