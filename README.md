@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1307-ugly-number-iii) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3192-maximum-xor-product](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3192-maximum-xor-product) |
+| [3374-count-alternating-subarrays](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3374-count-alternating-subarrays) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2411-spiral-matrix-iv](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2411-spiral-matrix-iv) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3374-count-alternating-subarrays](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3374-count-alternating-subarrays) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
