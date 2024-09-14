@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0079-word-search) |
+| [0165-compare-version-numbers](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0165-compare-version-numbers) |
 | [0227-basic-calculator-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0227-basic-calculator-ii) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0148-sort-list) |
+| [0165-compare-version-numbers](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0165-compare-version-numbers) |
 ## Merge Sort
 |  |
 | ------- |
