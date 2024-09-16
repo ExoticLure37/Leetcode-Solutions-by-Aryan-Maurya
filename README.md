@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0432-all-oone-data-structure) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0147-insertion-sort-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0148-sort-list) |
+| [0432-all-oone-data-structure](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2411-spiral-matrix-iv) |
@@ -237,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Design
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
