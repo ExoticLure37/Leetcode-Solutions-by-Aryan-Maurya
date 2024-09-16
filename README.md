@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0079-word-search) |
