@@ -289,4 +289,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0596-classes-more-than-5-students](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0596-classes-more-than-5-students) |
+| [1877-find-followers-count](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
