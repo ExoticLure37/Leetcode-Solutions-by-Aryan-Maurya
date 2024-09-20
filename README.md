@@ -285,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0214-shortest-palindrome) |
+## Database
+|  |
+| ------- |
+| [0596-classes-more-than-5-students](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0596-classes-more-than-5-students) |
 <!---LeetCode Topics End-->
