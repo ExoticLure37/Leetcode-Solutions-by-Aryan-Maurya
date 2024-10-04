@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0537-complex-number-multiplication](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0539-minimum-time-difference) |
+| [0633-sum-of-square-numbers](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0633-sum-of-square-numbers) |
 | [0897-prime-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0897-prime-palindrome) |
 | [1307-ugly-number-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1307-ugly-number-iii) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0731-my-calendar-ii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1232-sum-of-mutated-array-closest-to-target) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0633-sum-of-square-numbers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Merge Sort
 |  |
