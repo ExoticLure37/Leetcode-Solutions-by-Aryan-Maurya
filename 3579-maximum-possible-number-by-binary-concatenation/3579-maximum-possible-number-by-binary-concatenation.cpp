@@ -24,6 +24,9 @@ public:
         return num;
     }
     int maxGoodNumber(vector<int>& nums) {
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
         long long num=0;
         vector<string> v;
         for(auto c:nums)
