@@ -40,6 +40,9 @@ public:
         return ;
     }
     vector<string> removeInvalidParentheses(string s) {
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
         stack<char> t;
         n=s.length();
         for(auto c:s){
