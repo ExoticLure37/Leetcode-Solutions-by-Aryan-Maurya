@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0386-lexicographical-numbers) |
+| [0684-redundant-connection](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0684-redundant-connection) |
 | [1484-linked-list-in-binary-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1484-linked-list-in-binary-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0301-remove-invalid-parentheses) |
+| [0684-redundant-connection](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0684-redundant-connection) |
 | [1484-linked-list-in-binary-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1484-linked-list-in-binary-tree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0684-redundant-connection) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Design
@@ -406,5 +409,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0684-redundant-connection) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 <!---LeetCode Topics End-->
