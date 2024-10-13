@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0611-valid-triangle-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0731-my-calendar-ii) |
 | [0741-cherry-pickup](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0741-cherry-pickup) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1351-replace-the-substring-for-balanced-string) |
 ## Tree
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0475-heaters) |
 | [0539-minimum-time-difference](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0611-valid-triangle-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0611-valid-triangle-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3192-maximum-xor-product](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3192-maximum-xor-product) |
@@ -430,5 +435,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
