@@ -4,7 +4,9 @@ class RandomizedSet {
     set<int> s;
 public:
     RandomizedSet() {
-        
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
     }
     
     bool insert(int val) {
