@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3192-maximum-xor-product](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3192-maximum-xor-product) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3376-longest-common-suffix-queries](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3376-longest-common-suffix-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 ## Hash Table
 |  |
 | ------- |
