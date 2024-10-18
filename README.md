@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0044-wildcard-matching) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0044-wildcard-matching) |
 | [0224-basic-calculator](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0241-different-ways-to-add-parentheses) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0045-jump-game-ii) |
 | [0131-palindrome-partitioning](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0131-palindrome-partitioning) |
