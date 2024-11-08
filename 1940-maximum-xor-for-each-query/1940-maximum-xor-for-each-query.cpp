@@ -8,10 +8,7 @@ public:
         int n=nums.size();
         int num=0,i=0;
         res.resize(n);
-        while(mB--){
-            num+=(pow(2,i));
-            i++;
-        }
+        num=pow(2,mB)-1;
         vector<int> xr(n);
         xr[0]=(nums[0]);
         for(int i=1;i<n;i++){
@@ -25,3 +22,4 @@ public:
         return res;
     }
 };
+
