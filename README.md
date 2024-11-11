@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0670-maximum-swap) |
 | [0897-prime-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0897-prime-palindrome) |
 | [1307-ugly-number-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1307-ugly-number-iii) |
+| [2716-prime-subtraction-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2716-prime-subtraction-operation) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3192-maximum-xor-product](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3192-maximum-xor-product) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0897-prime-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0897-prime-palindrome) |
 | [1307-ugly-number-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1307-ugly-number-iii) |
+| [2716-prime-subtraction-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2716-prime-subtraction-operation) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0731-my-calendar-ii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1307-ugly-number-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1307-ugly-number-iii) |
+| [2716-prime-subtraction-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2716-prime-subtraction-operation) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
 ## Dynamic Programming
 |  |
@@ -416,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2716-prime-subtraction-operation) |
 | [3192-maximum-xor-product](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3192-maximum-xor-product) |
 | [3195-separate-black-and-white-balls](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
