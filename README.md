@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0731-my-calendar-ii) |
 | [0741-cherry-pickup](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0741-cherry-pickup) |
+| [0747-min-cost-climbing-stairs](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0772-construct-quad-tree) |
 | [0859-design-circular-deque](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1002-maximum-width-ramp) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0241-different-ways-to-add-parentheses) |
 | [0354-russian-doll-envelopes](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0354-russian-doll-envelopes) |
 | [0741-cherry-pickup](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0741-cherry-pickup) |
+| [0747-min-cost-climbing-stairs](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0747-min-cost-climbing-stairs) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2022-maximum-alternating-subsequence-sum) |
