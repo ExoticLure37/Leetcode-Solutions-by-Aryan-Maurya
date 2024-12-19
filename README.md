@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0445-add-two-numbers-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1002-maximum-width-ramp) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1045-check-if-word-is-valid-after-substitutions) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0747-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0772-construct-quad-tree) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1002-maximum-width-ramp) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1121-partition-array-for-maximum-sum) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2573-remove-nodes-from-linked-list) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0780-max-chunks-to-make-sorted) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -471,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0670-maximum-swap) |
 | [0770-couples-holding-hands](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0770-couples-holding-hands) |
+| [0780-max-chunks-to-make-sorted](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1304-longest-happy-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2094-remove-stones-to-minimize-the-total) |
