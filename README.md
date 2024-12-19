@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2648-number-of-ways-to-earn-points](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2648-number-of-ways-to-earn-points) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2554-minimum-total-distance-traveled](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2554-minimum-total-distance-traveled) |
+| [2648-number-of-ways-to-earn-points](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2648-number-of-ways-to-earn-points) |
 ## Sorting
 |  |
 | ------- |
