@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2504-find-all-good-indices](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2504-find-all-good-indices) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2554-minimum-total-distance-traveled) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2504-find-all-good-indices](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2504-find-all-good-indices) |
 | [2554-minimum-total-distance-traveled](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2554-minimum-total-distance-traveled) |
 | [2648-number-of-ways-to-earn-points](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2648-number-of-ways-to-earn-points) |
 ## Sorting
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2504-find-all-good-indices](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2504-find-all-good-indices) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Brainteaser
 |  |
