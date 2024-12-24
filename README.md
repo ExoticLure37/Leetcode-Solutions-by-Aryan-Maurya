@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0089-gray-code) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1435-xor-queries-of-a-subarray) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1002-maximum-width-ramp) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1121-partition-array-for-maximum-sum) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1256-rank-transform-of-an-array) |
