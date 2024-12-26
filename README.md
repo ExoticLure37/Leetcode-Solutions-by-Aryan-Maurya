@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2504-find-all-good-indices](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2504-find-all-good-indices) |
 | [2554-minimum-total-distance-traveled](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2554-minimum-total-distance-traveled) |
 | [2648-number-of-ways-to-earn-points](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2648-number-of-ways-to-earn-points) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 ## Sorting
 |  |
 | ------- |
