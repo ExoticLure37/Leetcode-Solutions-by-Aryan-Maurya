@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1160-letter-tile-possibilities](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1160-letter-tile-possibilities) |
 | [1304-longest-happy-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1304-longest-happy-string) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-letter-tile-possibilities](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1160-letter-tile-possibilities) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0301-remove-invalid-parentheses) |
+| [1160-letter-tile-possibilities](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
