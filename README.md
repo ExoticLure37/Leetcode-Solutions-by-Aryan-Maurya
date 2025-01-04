@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0670-maximum-swap) |
 | [0897-prime-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0897-prime-palindrome) |
 | [1307-ugly-number-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1307-ugly-number-iii) |
+| [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
 | [2531-create-components-with-same-value](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2531-create-components-with-same-value) |
 | [2716-prime-subtraction-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2716-prime-subtraction-operation) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
 | [1923-sentence-similarity-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1940-maximum-xor-for-each-query) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1304-longest-happy-string) |
+| [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -688,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1304-longest-happy-string) |
+| [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -724,4 +729,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3350-distribute-elements-into-two-arrays-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
 <!---LeetCode Topics End-->
