@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0897-prime-palindrome) |
 | [1307-ugly-number-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1307-ugly-number-iii) |
 | [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2531-create-components-with-same-value](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2531-create-components-with-same-value) |
 | [2716-prime-subtraction-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2716-prime-subtraction-operation) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2331-intersection-of-multiple-arrays) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2358-number-of-ways-to-split-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2331-intersection-of-multiple-arrays) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2487-optimal-partition-of-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2531-create-components-with-same-value](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2531-create-components-with-same-value) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Bitmask
@@ -737,4 +741,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
+## Geometry
+|  |
+| ------- |
+| [2332-count-lattice-points-inside-a-circle](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2332-count-lattice-points-inside-a-circle) |
 <!---LeetCode Topics End-->
