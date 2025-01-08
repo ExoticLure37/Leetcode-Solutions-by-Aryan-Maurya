@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3192-maximum-xor-product](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3192-maximum-xor-product) |
+| [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
 | [3374-count-alternating-subarrays](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3374-count-alternating-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-ugly-number-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1307-ugly-number-iii) |
 | [2716-prime-subtraction-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
 ## Stack
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -552,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0772-construct-quad-tree) |
 | [2411-spiral-matrix-iv](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2411-spiral-matrix-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Combinatorics
 |  |
@@ -573,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Greedy
 |  |
@@ -750,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2531-create-components-with-same-value](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2531-create-components-with-same-value) |
+| [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Bitmask
 |  |
