@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1160-letter-tile-possibilities](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1160-letter-tile-possibilities) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0772-construct-quad-tree) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0859-design-circular-deque) |
+| [0952-word-subsets](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1025-minimum-cost-for-tickets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0952-word-subsets](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1160-letter-tile-possibilities) |
 | [1256-rank-transform-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
