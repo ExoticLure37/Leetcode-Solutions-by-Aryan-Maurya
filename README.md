@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3376-longest-common-suffix-queries) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Bit Manipulation
 |  |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Linked List
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Greedy
 |  |
