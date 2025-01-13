@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0241-different-ways-to-add-parentheses) |
+| [0299-bulls-and-cows](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0451-sort-characters-by-frequency) |
 | [0537-complex-number-multiplication](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0537-complex-number-multiplication) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0139-word-break) |
+| [0299-bulls-and-cows](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0299-bulls-and-cows) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0380-insert-delete-getrandom-o1) |
 | [0432-all-oone-data-structure](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0432-all-oone-data-structure) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0621-task-scheduler) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0920-uncommon-words-from-two-sentences) |
