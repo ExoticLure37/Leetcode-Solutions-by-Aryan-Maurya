@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
+| [2125-gcd-sort-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2125-gcd-sort-of-an-array) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2531-create-components-with-same-value](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2531-create-components-with-same-value) |
 | [2716-prime-subtraction-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2716-prime-subtraction-operation) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0897-prime-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0897-prime-palindrome) |
 | [1307-ugly-number-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1307-ugly-number-iii) |
+| [2125-gcd-sort-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2125-gcd-sort-of-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2125-gcd-sort-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2125-gcd-sort-of-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1256-rank-transform-of-an-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
+| [2125-gcd-sort-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2125-gcd-sort-of-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2331-intersection-of-multiple-arrays) |
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0770-couples-holding-hands) |
+| [2125-gcd-sort-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2125-gcd-sort-of-an-array) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Design
