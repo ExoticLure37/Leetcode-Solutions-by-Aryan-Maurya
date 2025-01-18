@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1435-xor-queries-of-a-subarray) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0770-couples-holding-hands) |
 | [1484-linked-list-in-binary-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1484-linked-list-in-binary-tree) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0741-cherry-pickup) |
 | [0772-construct-quad-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0772-construct-quad-tree) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2411-spiral-matrix-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
@@ -772,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0770-couples-holding-hands) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2189-maximum-path-quality-of-a-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -787,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1304-longest-happy-string) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -834,4 +839,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2332-count-lattice-points-inside-a-circle) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->
