@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0354-russian-doll-envelopes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0380-insert-delete-getrandom-o1) |
+| [0407-trapping-rain-water-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0301-remove-invalid-parentheses) |
+| [0407-trapping-rain-water-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0770-couples-holding-hands) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0407-trapping-rain-water-ii) |
 | [0741-cherry-pickup](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0741-cherry-pickup) |
 | [0772-construct-quad-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0772-construct-quad-tree) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0295-find-median-from-data-stream) |
+| [0407-trapping-rain-water-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
