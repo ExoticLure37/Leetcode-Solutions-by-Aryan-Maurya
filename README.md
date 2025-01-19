@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1063-best-sightseeing-pair) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1071-binary-prefix-divisible-by-5) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0770-couples-holding-hands) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1304-longest-happy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1502-construct-k-palindrome-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1502-construct-k-palindrome-strings) |
