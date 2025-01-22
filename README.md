@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1876-map-of-highest-peak](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1940-maximum-xor-for-each-query) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-couples-holding-hands](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0770-couples-holding-hands) |
 | [1484-linked-list-in-binary-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1876-map-of-highest-peak) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0772-construct-quad-tree) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1876-map-of-highest-peak) |
 | [2411-spiral-matrix-iv](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2411-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2685-first-completely-painted-row-or-column) |
