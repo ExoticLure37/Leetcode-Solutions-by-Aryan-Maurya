@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0354-russian-doll-envelopes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0380-insert-delete-getrandom-o1) |
+| [0403-frog-jump](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0435-non-overlapping-intervals) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0241-different-ways-to-add-parentheses) |
 | [0354-russian-doll-envelopes](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0354-russian-doll-envelopes) |
+| [0403-frog-jump](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0435-non-overlapping-intervals) |
 | [0741-cherry-pickup](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0741-cherry-pickup) |
