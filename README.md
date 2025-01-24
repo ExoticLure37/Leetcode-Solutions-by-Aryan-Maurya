@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3659-count-paths-with-the-given-xor-value) |
 ## Hash Table
 |  |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2887-sort-vowels-in-a-string) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3291-find-if-array-can-be-sorted) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Divide and Conquer
 |  |
 | ------- |
