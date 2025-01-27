@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0670-maximum-swap) |
 | [0897-prime-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0897-prime-palindrome) |
+| [1223-graph-connectivity-with-threshold](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1223-graph-connectivity-with-threshold) |
 | [1307-ugly-number-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1307-ugly-number-iii) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1678-number-of-ways-to-split-a-string) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-prime-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0897-prime-palindrome) |
+| [1223-graph-connectivity-with-threshold](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1223-graph-connectivity-with-threshold) |
 | [1307-ugly-number-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1307-ugly-number-iii) |
 | [2125-gcd-sort-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2125-gcd-sort-of-an-array) |
 | [2716-prime-subtraction-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2716-prime-subtraction-operation) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-binary-prefix-divisible-by-5](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1121-partition-array-for-maximum-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1223-graph-connectivity-with-threshold](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1223-graph-connectivity-with-threshold) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1256-rank-transform-of-an-array) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0684-redundant-connection) |
 | [0770-couples-holding-hands](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0770-couples-holding-hands) |
+| [1223-graph-connectivity-with-threshold](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1223-graph-connectivity-with-threshold) |
 | [1396-count-servers-that-communicate](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1396-count-servers-that-communicate) |
 | [2125-gcd-sort-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2125-gcd-sort-of-an-array) |
 | [2198-process-restricted-friend-requests](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2198-process-restricted-friend-requests) |
