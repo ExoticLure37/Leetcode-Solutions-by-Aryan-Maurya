@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2189-maximum-path-quality-of-a-graph) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2262-solving-questions-with-brainpower](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2262-solving-questions-with-brainpower) |
 | [2504-find-all-good-indices](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2504-find-all-good-indices) |
 | [2554-minimum-total-distance-traveled](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2554-minimum-total-distance-traveled) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2358-number-of-ways-to-split-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
