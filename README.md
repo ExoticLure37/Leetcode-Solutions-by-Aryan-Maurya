@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3376-longest-common-suffix-queries) |
+| [3447-clear-digits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Bit Manipulation
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3350-distribute-elements-into-two-arrays-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3350-distribute-elements-into-two-arrays-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Number Theory
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-remove-nodes-from-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3447-clear-digits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
