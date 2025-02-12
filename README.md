@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2411-spiral-matrix-iv](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2331-intersection-of-multiple-arrays) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2487-optimal-partition-of-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2331-intersection-of-multiple-arrays](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2331-intersection-of-multiple-arrays) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2554-minimum-total-distance-traveled](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -880,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1788-stone-game-vi](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1788-stone-game-vi) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2692-take-gifts-from-the-richest-pile) |
