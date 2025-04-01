@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2411-spiral-matrix-iv](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2465-shifting-letters-ii) |
+| [2472-build-a-matrix-with-conditions](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2411-spiral-matrix-iv) |
+| [2472-build-a-matrix-with-conditions](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2472-build-a-matrix-with-conditions) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2685-first-completely-painted-row-or-column) |
@@ -929,6 +931,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2379-maximum-total-importance-of-roads) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2472-build-a-matrix-with-conditions](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2472-build-a-matrix-with-conditions) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3189-find-champion-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1004,4 +1007,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1558-course-schedule-iv](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2472-build-a-matrix-with-conditions](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
