@@ -1,26 +1,21 @@
-using ll=long long ;
+using ll=long long;
 class Solution {
 public:
-    ll n;
-    long long dp[100001];
-    ll solve(ll idx,vector<vector<int> > &questions){
-        if(idx==n-1)  return questions[idx][0];
-        if(idx>=n)  return 0;
+    ll dp[100001];
+    ll solve(ll idx,vector<vector<int> > &ques){
+        if(idx>=ques.size())    return 0;
 
         if(dp[idx]!=-1) return dp[idx];
 
-        ll skip=0,notskip=0;
-        notskip=solve(idx+questions[idx][1]+1,questions)+questions[idx][0];
-        skip=solve(idx+1,questions)+0;
-        
-        return dp[idx]=max(skip,notskip);
+        ll incl=0,excl=0;
+        incl=solve(idx+ques[idx][1]+1,ques)+ques[idx][0];
+        excl=solve(idx+1,ques)+0;
+
+        return dp[idx]=max(incl,excl);
     }
-    long long mostPoints(vector<vector<int>>& questions) {
-        n=questions.size();
-
+    long long mostPoints(vector<vector<int>>& ques) {
         memset(dp,-1,sizeof(dp));
-        ll res=solve(0,questions);
-
-        return res;
+        ll res=solve(0,ques); 
+        return res;       
     }
 };
