@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0475-heaters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0475-heaters) |
+| [0494-target-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0540-single-element-in-a-sorted-array) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0741-cherry-pickup) |
 | [0747-min-cost-climbing-stairs](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1025-minimum-cost-for-tickets) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1160-letter-tile-possibilities) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1381-maximum-score-words-formed-by-letters) |
