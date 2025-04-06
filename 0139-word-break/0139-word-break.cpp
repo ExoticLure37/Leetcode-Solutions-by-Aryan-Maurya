@@ -1,28 +1,33 @@
 class Solution {
-public:
+public: 
+    unordered_set<string> mp;
     int n;
-    map<string,int> mp;
-    string empty="";
-    int solve(string &s,string &curr,int idx,map<string,int> &dp){
-        if(curr.length()>n) return 0;
-        if(idx==n)  return mp[curr]>0;
-        string key=curr+'-'+to_string(idx);
-        if(dp.find(key)!=dp.end())  return dp[key];
-        curr+=s[idx];
-        int first=false,second=false;
-        if(mp[curr]>0){        //can remove
-            int f2=solve(s,curr,idx+1,dp);
-            curr="";
-            int f1=solve(s,curr,idx+1,dp);
-            first= f1||f2;
+    vector<int> dp;
+    bool solve(int idx,string &s){
+        if(idx>=n)  return true;
+
+        if(dp[idx]!=-1) return dp[idx];
+
+        string p="";
+        for(int i=idx;i<n;i++){
+            p+=s[i];
+
+            if(mp.count(p)>0 && solve(i+1,s)){
+                dp[idx]=true;
+                return dp[idx];
+            }
         }
-        else    second =solve(s,curr,idx+1,dp);
-        return dp[key]=first||second;
+
+        return dp[idx]=false;
     }
-    bool wordBreak(string s, vector<string>& wd) {
+    bool wordBreak(string s, vector<string>& wordDict) {
         n=s.length();
-        for(auto c:wd)  mp[c]++;
-        map<string,int> dp;
-        return solve(s,empty,0,dp);
+        for(auto c:wordDict){
+            mp.insert(c);
+        }
+
+        dp.resize(n+1,-1);
+        bool res=solve(0,s);
+        return res;
     }
 };
