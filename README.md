@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2107-find-unique-binary-string) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2125-gcd-sort-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2125-gcd-sort-of-an-array) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2205-find-good-days-to-rob-the-bank](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2262-solving-questions-with-brainpower) |
 | [2504-find-all-good-indices](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2504-find-all-good-indices) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1876-map-of-highest-peak) |
+| [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2472-build-a-matrix-with-conditions) |
