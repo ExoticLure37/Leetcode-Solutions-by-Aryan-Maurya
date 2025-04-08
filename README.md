@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3632-button-with-longest-push-time](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3632-button-with-longest-push-time) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3659-count-paths-with-the-given-xor-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Linked List
 |  |
 | ------- |
