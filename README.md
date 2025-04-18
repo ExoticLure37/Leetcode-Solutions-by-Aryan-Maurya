@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0065-valid-number) |
