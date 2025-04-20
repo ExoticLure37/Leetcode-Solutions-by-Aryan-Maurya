@@ -4,7 +4,7 @@ public:
         int n=gs.size();
 
         vector<vector<int> > res;
-        vector<vector<int> > count(n+1);
+        unordered_map<int,vector<int> > count;
 
         for(int i=0;i<n;i++){
             int person=i;
@@ -15,7 +15,7 @@ public:
             if(count[groupSize].size()==groupSize){
                 vector<int> group=count[groupSize];
                 res.push_back(group);
-                count[groupSize].clear();
+                count[groupSize]={};
             }
         }
 
