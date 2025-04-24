@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1351-replace-the-substring-for-balanced-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1351-replace-the-substring-for-balanced-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
