@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0407-trapping-rain-water-ii) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0313-super-ugly-number) |
 | [0354-russian-doll-envelopes](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0368-largest-divisible-subset) |
+| [0376-wiggle-subsequence](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0376-wiggle-subsequence) |
 | [0403-frog-jump](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0416-partition-equal-subset-sum) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0179-largest-number) |
+| [0376-wiggle-subsequence](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0611-valid-triangle-number) |
