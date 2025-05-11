@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-graph-connectivity-with-threshold](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1223-graph-connectivity-with-threshold) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1256-rank-transform-of-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1293-three-consecutive-odds) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1364-tuple-with-same-product) |
 | [1380-number-of-closed-islands](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1380-number-of-closed-islands) |
