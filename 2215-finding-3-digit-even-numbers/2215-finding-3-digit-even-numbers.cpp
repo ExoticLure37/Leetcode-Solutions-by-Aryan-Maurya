@@ -10,7 +10,7 @@ public:
         for(int i=100;i<=999;i+=2){
             int num=i;
             bool found=true;
-            vector<int> tmp(N,0);
+            int tmp[10]={0};
             while(num){
                 int d=num%10;
                 tmp[d]++;
