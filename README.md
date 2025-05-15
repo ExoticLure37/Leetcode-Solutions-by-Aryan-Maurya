@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2887-sort-vowels-in-a-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3195-separate-black-and-white-balls](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3303-find-beautiful-indices-in-the-given-array-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3303-find-beautiful-indices-in-the-given-array-ii) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2554-minimum-total-distance-traveled) |
 | [2648-number-of-ways-to-earn-points](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2648-number-of-ways-to-earn-points) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3659-count-paths-with-the-given-xor-value](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3659-count-paths-with-the-given-xor-value) |
@@ -854,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2716-prime-subtraction-operation) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3192-maximum-xor-product](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3192-maximum-xor-product) |
 | [3195-separate-black-and-white-balls](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3195-separate-black-and-white-balls) |
