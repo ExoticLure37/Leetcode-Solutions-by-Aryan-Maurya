@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2671-shortest-cycle-in-a-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1032,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2472-build-a-matrix-with-conditions) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3189-find-champion-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3189-find-champion-ii) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3386-find-edges-in-shortest-paths) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
@@ -1054,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3386-find-edges-in-shortest-paths) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Monotonic Queue
@@ -1104,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3386-find-edges-in-shortest-paths](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3386-find-edges-in-shortest-paths) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
