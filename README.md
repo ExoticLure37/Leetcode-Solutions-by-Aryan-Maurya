@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1678-number-of-ways-to-split-a-string) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0768-partition-labels) |
 | [0958-sort-array-by-parity-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/0958-sort-array-by-parity-ii) |
 | [1659-get-the-maximum-score](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1659-get-the-maximum-score) |
+| [1739-split-two-strings-to-make-palindrome](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1739-split-two-strings-to-make-palindrome) |
 | [1923-sentence-similarity-iii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/1923-sentence-similarity-iii) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
