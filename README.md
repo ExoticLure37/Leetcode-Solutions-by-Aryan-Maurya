@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3376-longest-common-suffix-queries) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-remove-nodes-from-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3447-clear-digits) |
 ## Array
 |  |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-most-frequent-prime](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3594-identify-the-largest-outlier-in-an-array) |
@@ -878,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3192-maximum-xor-product](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3192-maximum-xor-product) |
 | [3195-separate-black-and-white-balls](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3195-separate-black-and-white-balls) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Backtracking
 |  |
@@ -1058,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3386-find-edges-in-shortest-paths](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3386-find-edges-in-shortest-paths) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/ExoticLure37/Leetcode-Solutions-by-Aryan-Maurya/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Monotonic Queue
